@@ -7,7 +7,7 @@ Software Engineer
 👨‍💻 Software engineer who loves solving tricky problems and making clean, reliable code. I’m all about fixing bugs, building in the cloud, and meeting tough deadlines with a smile (and coffee!).
 
 * ✉️  You can contact me at [dzemildupljak4795@gmail.com](mailto:dzemildupljak4795@gmail.com)
-* 🧠  I'm learning Node.js, JavaScript, Go, AWS, software architecture, and best practices. Diving deep into design patterns, clean code, cloud computing, databases, and application monitoring, tracing and performance analytics.
+* 🧠 I'm working with Node.js, JavaScript, Go, and AWS, applying software architecture principles and best practices. I focus on design patterns, clean code, cloud computing, databases, and implementing monitoring, tracing, and performance analytics in applications.
 * 🤝  I'm open to collaborating on Node.js and Go projects, cloud-based solutions, and anything focused on clean code, best practices or performance optimization!
 
 ### Skills
